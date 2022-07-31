@@ -1,8 +1,16 @@
-# Getting Started with Create React App
+# The BING
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Plataforma centralizadora de todas as informações da carga pós atracação desenvolvida durante o PortoHack2022.
+FOLLOW-UP de etapas da carga na cadeia logística.
+
+
+Conheça o [Protótiopo](https://www.canva.com/design/DAFH7b1mWmo/AxzuFW8lvF1RGcorOtJC0A/view?utm_content=DAFH7b1mWmo&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+
+
+
 
 ## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
